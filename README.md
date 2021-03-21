@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**bwcxyk/bwcxyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✏️ Read my blog on https://blog.bwcxtech.com
+- 📫 How to reach me: yaokun@bwcxtech.com
+
+
+### Github stats
+<!--
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true&hide_title=true" />
