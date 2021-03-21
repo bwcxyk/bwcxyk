@@ -11,13 +11,13 @@
 - ⚡ Fun fact: ...
 -->
 
+23岁，目前工作地点在上海。
+- 🌱 kubernetes
 - ✏️ Read my blog on https://blog.bwcxtech.com
 - 📫 How to reach me: yaokun@bwcxtech.com
 
 
-### Github stats
 <!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)]()
 -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true&hide_title=true" />
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true)]()
