@@ -12,7 +12,7 @@
 -->
 
 23岁，目前工作地点在上海。
-- 🌱 kubernetes
+- 🌱 I’m currently learning kubernetes
 - ✏️ Read my blog on https://blog.bwcxtech.com
 - 📫 How to reach me: yaokun@bwcxtech.com
 
