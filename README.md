@@ -17,7 +17,12 @@
 - 📫 How to reach me: yaokun@bwcxtech.com
 
 
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true)](https://blog.bwcxtech.com)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwcxyk&amp;layout=compact" align="right"/>](https://blog.bwcxtech.com)
+
 <!--
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwcxyk&langs_count=8)](https://blog.bwcxtech.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwcxyk&layout=compact)](https://blog.bwcxtech.com)
 -->
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=bwcxyk&show_icons=true)]()
