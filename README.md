@@ -1,4 +1,4 @@
-[![Page Views Count](https://badges.toozhao.com/badges/01F2D2C27FJ64GRWAKT4JF73XG/green.svg)](https://blog.bwcxtech.com)
+
 ### Hi there 👋
 
 <!--
